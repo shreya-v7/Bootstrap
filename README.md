@@ -1,4 +1,4 @@
 # Bootstrap Templates
 
-. Checking out bootstrap
-. Altering html css
+-> Checking out bootstrap
+-> Altering html css
